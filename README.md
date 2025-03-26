@@ -18,7 +18,7 @@ You can book 1 : 1 development training with me here on Moodle (at the very bott
 - I recommend you do a small exercise / coding snippet / present your procedure. I will give you personalized feedback and advice on the basis of this. (If you just want to talk / discuss some topic, that's cool too)
 - We can do the exercise in a pair-programming fashion.
 
-**I can be booked for any timeslot during the next couple of week as long as it is before 2 o'clock. If there should be any calendar conflicts I will propose a new time.**
+**The first couple of sessions will all be Wednesday week 14 (2nd of April). After this, I can be booked at any point in time (as long as it is before 2 o'clock). If there should be any calendar conflicts, I will propose a new time**
 
 # Topics for recap lessons
 
